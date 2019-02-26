@@ -80,6 +80,7 @@ body {
   nav {
     float: right;
     margin-top: 25px;
+    z-index: 100;
   }
   
   nav a {
